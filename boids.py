@@ -5,7 +5,6 @@ import pygame
 import os
 os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = 'hide'
 
-
 class BoidsFlock:
 
     ALIGN_RADIUS = 50
